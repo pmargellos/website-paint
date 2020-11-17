@@ -18,7 +18,7 @@ header { width: 100%; height: 60px; background: #00A9D8; padding: 5px 0; margin-
 	.button:hover { background: linear-gradient(#0f2557, #28559A); }
 
 section.hero { width: 100%; height: 400px; background: url(bgplaceholder.jpg); background-size: 100% 100%; padding: 5px 0; margin-bottom: 5px; }
-	.heroimage { width: 480px; height: 380px; background: #0d9cde#0F2557; float: left; margin: 10px 0 0 20px; }
+	.heroimage { width: 480px; height: 380px; background: #0F2557; float: left; margin: 10px 0 0 20px; }
 	.herocontent { width: 400px; float: left; margin-left: 20px; padding-top: 40px; }
 	section.hero h1 { font-size: 30px; margin-bottom: -10px; }
 	section.hero p { margin-bottom: 60px; }
@@ -34,7 +34,7 @@ section.organize { width: 100%; height: 260px; background: rgb(220,220,220); pad
 	section.organize img, section.share img { width: 440px; height: 225px; float: left; margin-left: 20px; margin-top: 20px; background: rgb(200,200,200); }
 	.organizecontent, .sharecontent { float: left; margin-left: 20px; width: 440px; }
 
-section.share { width: 940px; height: 260px; background:  #00A9D8; margin: 0 auto 5px; padding: 5px 0; }
+section.share { width: 940px; height: 260px; background:  #7ED5EA; margin: 0 auto 5px; padding: 5px 0; }
 
 section.get { width: 100%; height: 100px; background:  #00A9D8; padding: 5px 0; margin-bottom: 5px; }
 	section.get h2 { font-size: 30px; float: left; color: #ffffff; margin-left: 60px; margin-top: 30px; }	
